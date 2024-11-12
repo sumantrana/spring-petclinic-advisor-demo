@@ -5,9 +5,9 @@ name: Java CI with Maven
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "advisor-updates" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "advisor-updates" ]
 
 jobs:
   build:
