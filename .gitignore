@@ -10,6 +10,7 @@ build/*
 *.iml
 /target
 .sts4-cache/
+.advisor/
 .vscode
 _site/
 *.css
